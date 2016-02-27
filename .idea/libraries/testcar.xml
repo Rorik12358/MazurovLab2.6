@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="testcar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/production/MazurovLab2.6/testcar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/testcar.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
